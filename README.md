@@ -21,16 +21,7 @@ Confusion, misinformation, and prioritization problems are the subject of work a
 
 7. A socialist society will provide an open feedback loop to effectuate PID economic government; so people can restructure the binary tree hierarchy according to any error with respect to their set point.
  
-127
 
-1
-2 2
-4 4 4 4 
-8 8 8 8 8 8 8 8 
-16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16
-32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 
-64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 
-64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64
 
 Some people will have an higher in-degree than out-degree. The person with the highest in-degree will be at the root of the tree. Achieving a higher in-degree is a competitive process like any. People will compete to achieve an higher in-degree by providing pay, goods and services of higher quality. Services may be personal or political.
  
@@ -40,54 +31,12 @@ In capitalist society ownership of media companies means you have the power to r
 
 Any transaction is subject to a rating in a world of perfect coverage. But in practicality only a proportion of transactions would be rated. Your highest priority interrupt would receive a 7 rating. A single scan, “restaurant menu” bar code, is a one-click app solution by which you can prioritize your queue.
 
-The next size of binary tree is too confusing:
-
-255
-
-1
-2 2
-4 4 4 4 
-8 8 8 8 8 8 8 8 
-16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16
-32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 
-64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 
-64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64
-128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128
-128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128
-128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128
-128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128128
 
 Note: increasing confusion towards bottom.
-
-
 The first page of this manifesto is of higher importance than second page. 
 
 
-
-
 In a priority queue, an element with high priority is served before an element with low priority.
-
-
-
-
-
-64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 
-64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64
-32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 
-16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16
-8 8 8 8 8 8 8 8 
-4 4 4 4 
-2 2
-1
-                    0              255
-1              
-2 2
-4 4 4 4 
-8 8 8 8 8 8 8 8 
-16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16
-32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 
-64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 
-64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64
 
 
 Client software extracts Collection Socialist127 { root: 0 }  list of 127 player/citizens “playzen” with style modification for branch and leaf node of binary tree including highest rated playzen at root 0.
