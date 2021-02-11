@@ -5,9 +5,9 @@ Socialist127
 Gnu copyleft: Charles J. Short
 
 
-Confusion, misinformation, and prioritization problems are the subject of work and struggle everyday for human beings. Clear information which correctly prioritizes the commodity of time and attention has high value. For example, the 7 digit phone number is designed to match human IQ. 
+Confusion, misinformation, and prioritization problems are the subject of work and struggle everyday for human beings. Clear information which correctly prioritizes the commodity of time and attention has high value. For example, the 7 digit phone number is designed to match the normal human IQ. 
 
-1. It is scientifically evident that many human beings have cognitive thresholds, quantifiable cognitive thresholds.  Specifically a numerical threshold of 127 which is 2^7 – 1 the size of a priority queue.1 
+1. It is scientifically evident that many human beings have cognitive thresholds, quantifiable cognitive thresholds.  Specifically a numerical threshold of 127 which is 2^7 – 1 the size of a priority queue. 
 
 2. A socialist society will operate within the cognitive threshold of 127 for a percentage of observed communication events with PID feedback control for achieving a set point. Proportional, integral, and derivative factors interact to produce an estimated ideal hierarchy which changes through feedback.
 
